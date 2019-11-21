@@ -2,3 +2,4 @@
 ## Waltteri Reunamäki
 # Kristian Pohjonen
 ### Tatu Hammarén
+~~Elias Virta~~
